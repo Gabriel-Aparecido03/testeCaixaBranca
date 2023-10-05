@@ -1,10 +1,10 @@
 # testeCaixaBranca
 
 <h2>Estrutura dos dados </h2>
-![image](https://github.com/Gabriel-Aparecido03/testeCaixaBranca/assets/67979742/86561b47-b1e1-4c3a-a552-f03d29a4b186)
+<img src="https://github.com/Gabriel-Aparecido03/testeCaixaBranca/assets/67979742/86561b47-b1e1-4c3a-a552-f03d29a4b186" />
 
 <h2>Criação do Grafo</h2>
-![Uploading image.png…]()
+<img src="https://github.com/Gabriel-Aparecido03/testeCaixaBranca/assets/67979742/e23c97ce-a108-479e-9122-6942b197db23" />
 
 <h2>Calculo da complexidade ciclomatica</h2>
 <p>Aretas : 16</p>
