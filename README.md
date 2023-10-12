@@ -5,7 +5,6 @@
   em parametros  -> usando tag @params
 </p>
 <p>Alguns pontos relevantes: </p>
-- As nomenclaturas de variaveis não estão o padrão que seria em camelCase.
-- Sem trativas de errors.
-- Sem fechamento da conexão com o banco de dados
-0 
+- As nomenclaturas de variaveis não estão o padrão que seria em camelCase. </br>
+- Sem trativas de errors. </br>
+- Sem fechamento da conexão com o banco de dados </br>
